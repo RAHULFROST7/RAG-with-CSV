@@ -1,4 +1,4 @@
-question,expected_response
+Question , Expected answer
 What is the job title of Maverick Figueroa?,IT Systems Architect
 In which department does Hannah Hoang work?,Accounting
 What is the ethnicity of Violet Garcia?,Latino
@@ -9,23 +9,103 @@ In which country is Emery Zhang located?,China
 What is the gender of Scarlett Kumar?,Female
 When was Joshua Fong hired?,11-06-2012
 What is the exit date of Emily Davis?,16-10-2021
-What was the total sales revenue for the Software business unit in USD for the year 2012?, $733 741 616.
-What was the total cost of goods sold for the Hardware business unit in USD for the year 2013?,$142 710 051.
-What was the net profit for the Advertising business unit in USD for the year 2014?,$27 239 818.
-What was the total payroll expense for the Software business unit in USD for the year 2013?,$60 906 391.
-What was the total marketing expense for the Hardware business unit in USD for the year 2012?,$5 628 578.
-What was the net income for the Software business unit in USD for the year 2012?,$107 792 051.
-What was the total consulting expense for the Advertising business unit in USD for the year 2013?,$13 126 441.
-What was the total revenue for the Hardware business unit in USD for the year 2013?,$334 776 405.
-What was the net profit margin for the Software business unit in 2014?,16.5%.
-What was the total sales revenue for the Advertising business unit in USD for the year 2012?,$303 167 124.
-What was the total travel & entertainment expense for the Software business unit in USD for the year 2014?, $8 332 848.
-What was the total commissions expense for the Hardware business unit in USD for the year 2012?, $12 579 487.
-What was the net income for the Advertising business unit in USD for the year 2014?, $6 806 365.
-What was the total software/hardware expense for the Advertising business unit in USD for the year 2013?, $21 894 379.
-What was the net profit margin for the Hardware business unit in 2012?, 18.7%.
-What was the total payroll expense for the Advertising business unit in USD for the year 2012?, $19 877 000.
-What was the total R&D expense for the Hardware business unit in USD for the year 2014?,$11 929 533.
-What was the total marketing expense for the Software business unit in USD for the year 2013?,$12 177 661.
-What was the total consulting expense for the Software business unit in USD for the year 2012?,$44 180 191.
-What was the net income for the Hardware business unit in USD for the year 2013?,$75 507 542.
+What is Emily Davis"s Job Title?,Sr. Manager
+When was Luna Sanders hired?,October 26 2006
+What is the Ethnicity of Robert Yang?,Asian
+In which country does Luke Martin work?, United States
+What is the Gender of Ruby Barnes?, Female
+When did Easton Bailey exit the company?, N/A (Still Employed)
+What is the Business Unit of Angel Powell?,Research & Development
+How old is Julian Delgado?, 29
+What is the City where Adam Dang works?,Chongqing
+What is the Annual Salary of Sadie Washington?,$122350
+What is the Job Title of Penelope Jordan?,Computer Systems Manager
+When was Mateo Her hired?, March 2 2014
+What is the Gender of Mateo Vu?, Male
+In which department does Wyatt Chin work?,Engineering
+What is the Ethnicity of Dakota Castillo?, Latino
+When did Camila Rogers start working?, October 21 2021
+What is the Business Unit of Hailey Hong?, Research & Development
+How old is Charlotte Chang?,50
+What is the City where Gabriel Holmes works?,Seattle
+What is the Annual Salary of Xavier Davis?, $238 236
+What is the Job Title of Maya Chan?, Controls Engineer
+When was Nora Le hired?, April 12 1997
+What is the Gender of John Cho?, Male
+In which department does Madison Hunter work?, IT
+What is the Ethnicity of Xavier Davis?,Caucasian
+When did Addison Do start working?, May 30 2001
+What is the Business Unit of Aaliyah Mai?,Speciality Products
+How old is Maya Chan?,37
+What is the City where Hailey Hong works?,Chicago
+What is the Annual Salary of Gabriel Holmes?, $92 952
+What is the Job Title of Peyton Huang?, Sr. Manager
+When was Cooper Jiang hired?,July 25 2019
+What is the Gender of Robert Wright?,Male
+In which department does Raelynn Rios work?,Sales
+What is the Ethnicity of Nora Le?,Asian
+When did Dylan Chin start working?,November 11 2016
+What is the Business Unit of Scarlett Kumar?, Corporate
+How old is Colton Garcia?,55
+What is the City where Julian Delgado works?,Rio de Janerio
+What is the Annual Salary of Audrey Richardson?, $166259
+What is the Job Title of Riley Washington?, Director
+When was Everly Walker hired?,October 23 2009
+What is the Gender of Violet Garcia?, Female
+In which department does Leo Herrera work?,Human Resources
+What is the Ethnicity of Robert Wright?, Caucasian
+When did Audrey Richardson start working?, October 6 2018
+What is the Business Unit of Julian Delgado?, Speciality Products
+How old is Scarlett Kumar?,55
+What is the City where Wesley Young works?,Columbus
+What is the Annual Salary of Lillian Khan?, $47 387
+What was the sales amount for the Software business unit in April 2012?,$52943701
+How much did the Hardware business unit spend on consulting in July 2013?, $1433907
+What were the marketing expenses for the Advertising business unit in October 2013?,$255120
+How many dollars did the Advertising business unit spend on payroll in August 2014?,$1838656
+What was the sales figure for the Software business unit in December 2012?,$82703597
+How much did the Hardware business unit spend on travel and entertainment in February 2014?,"$183,425"
+What were the commissions expenses for the Advertising business unit in March 2014?,"$1,122,338"
+How many dollars were spent on R&D for the Software business unit in September 2014?,"$2,161,622"
+What was the cost of goods sold for the Advertising business unit in May 2013?,"$6,719,996"
+How much did the Software business unit spend on marketing in June 2013?,"$1,153,027"
+What were the payroll expenses for the Hardware business unit in November 2013?,"$3,448,390"
+How many dollars did the Software/Hardware Expense incur in May 2012?,"$7,685,036"
+What was the cost of goods sold for the Advertising business unit in January 2014?,"$7,843,283"
+How much did the Hardware business unit spend on consulting in December 2012?,"$1,651,075"
+What were the commissions expenses for the Software business unit in August 2013?,"$4,053,567"
+How many dollars did the Software business unit spend on travel and entertainment in March 2013?,"$1,090,282"
+What was the sales amount for the Advertising business unit in November 2012?,"$14,819,735"
+How much did the Hardware business unit spend on R&D in August 2014?,"$745,066"
+What were the marketing expenses for the Software business unit in April 2014?,"$1,272,883"
+How many dollars were spent on payroll for the Advertising business unit in September 2012?,"$2,736,210"
+What was the sales figure for the Hardware business unit in October 2013?,"$30,608,966"
+How much did the Software business unit spend on consulting in January 2013?,"$5,261,471"
+What were the commissions expenses for the Hardware business unit in February 2014?,"$1,096,480"
+How many dollars did the Advertising business unit spend on travel and entertainment in July 2013?,"$221,103"
+What was the cost of goods sold for the Software business unit in June 2014?,"$34,794,166"
+How much did the Advertising business unit spend on consulting in May 2013?,"$1,291,439"
+What were the marketing expenses for the Hardware business unit in December 2013?,"$422,427"
+How many dollars were spent on R&D for the Software business unit in October 2012?,"$2,727,155"
+What was the sales amount for the Hardware business unit in September 2014?,"$20,547,965"
+How much did the Software business unit spend on software/hardware expenses in November 2014?,"$5,484,871"
+What were the commissions expenses for the Advertising business unit in June 2014?,"$684,846"
+How many dollars did the Hardware business unit spend on payroll in April 2013?,"$3,680,507"
+What was the cost of goods sold for the Software business unit in December 2013?,"$41,071,028"
+How much did the Advertising business unit spend on marketing in March 2012?,"$223,369"
+What were the travel and entertainment expenses for the Hardware business unit in February 2013?,"$154,727"
+How many dollars were spent on consulting for the Software business unit in August 2012?,"$4,194,425"
+What was the sales figure for the Advertising business unit in July 2014?,"$13,864,686"
+How much did the Hardware business unit spend on R&D in September 2013?,"$1,022,098"
+What were the commissions expenses for the Software business unit in January 2014?,"$3,998,048"
+How many dollars did the Software business unit spend on travel and entertainment in October 2013?,"$1,070,444"
+What was the marketing expenses for the Hardware business unit in November 2014?,"$2,660,285"
+How much did the Advertising business unit spend on consulting in June 2013?,"$1,215,733"
+What were the payroll expenses for the Software business unit in May 2014?,"$4,143,413"
+How many dollars were spent on R&D for the Hardware business unit in August 2013?,"$782,794"
+What was the sales amount for the Software business unit in February 2012?,"$47,335,016"
+How much did the Hardware business unit spend on software/hardware expenses in July 2012?,"$1,393,048"
+What were the commissions expenses for the Advertising business unit in April 2014?,"$1,207,252"
+How many dollars did the Software business unit spend on travel and entertainment in September 2013?,"$1,175,678"
+What was the cost of goods sold for the Hardware business unit in October 2012?,"$21,751,292"
+How much did the Advertising business unit spend on marketing in August 2012?,"$199,452"

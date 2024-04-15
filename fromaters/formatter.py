@@ -6,6 +6,7 @@ from pathlib import Path
 def excel_to_csv(excel_file):
     try:
         df = pd.read_excel(excel_file)
+        df = df.map(str)
         csv_file = excel_file.parent / f"{excel_file.stem}.csv"
         
         try:
@@ -25,6 +26,7 @@ def excel_to_csv(excel_file):
 
 
 def csv_to_json(csv_file, json_file, url, conversion_ext):
+
     with open(csv_file, 'r') as f:
         reader = csv.DictReader(f)
         data = []
@@ -63,6 +65,9 @@ if __name__ == "__main__":
     csv_path, op_path, url = get_data()
     
     if csv_path.suffix == '.csv':
+        df = pd.read_csv(csv_path)
+        df = df.map(str)
+        df.to_csv(csv_path,index=False)
         csv_to_json(csv_path, op_path, url, ".csv")
     
     elif csv_path.suffix == '.xls' or csv_path.suffix == '.xlsx':
